@@ -1,0 +1,11 @@
+vi ~/.ssh/config
+
+
+[ec2-user@ip-172-31-40-105 ~]$ w
+ 07:51:36 up 1 day,  3:07,  2 users,  load average: 0.00, 0.00, 0.00
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+ec2-user pts/0    157.50.18.96     05:43    1:31m  0.02s  0.02s -bash
+ec2-user pts/1    157.50.18.96     07:16    0.00s  0.00s  0.00s w
+
+GitHub Token
+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
